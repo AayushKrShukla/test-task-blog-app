@@ -15,7 +15,7 @@ git clone https://github.com/AayushKrShukla/test-task-blog-app.git
 cd test-task-blog-app
 ```
 
-# Prerequisites: You should have a mongo server running
+### Prerequisites: You should have a mongo server running
 
 
 The repo contains both the frontend and backend, it is recommened to start backend first
