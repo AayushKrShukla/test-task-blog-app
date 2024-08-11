@@ -29,9 +29,9 @@ npm run start
 
 Before running the server please make sure you have a .env at the root of the backend folder
 ```
-JWT_TOKEN_EXPIRES_IN=<name>
-JWT_COOKIE_EXPIRES_IN=<key>
-JWT_TOKEN_SECRET=<secret>
+JWT_TOKEN_EXPIRES_IN=<time> example 1d
+JWT_COOKIE_EXPIRES_IN=<numer> example 1
+JWT_TOKEN_SECRET=<secret> example mysecretkey
 MONGODB_URI=<token>
 ```
 
